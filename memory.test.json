@@ -1,0 +1,34 @@
+
+{
+    "facts": [],
+    "preferences": [
+        "միրգ: բանան",
+        "մեքենա: BMW",
+        "սպորտ: բռնցքամարտ",
+        "կենդանի: կատու"
+    ],
+    "interests": [],
+    "devices": [],
+    "goals": [],
+    "projects": [],
+    "games": [
+        "Minecraft",
+        "Counter Strike 2",
+        "Forza Horizon 6",
+        "Euro Truck Simulator 2",
+        "Need for Speed Heat",
+        "Grand Theft Auto VI",
+        "Grand Theft Auto V",
+        "EVOLVE RP"
+    ],
+    "tasks": [],
+    "user_name": "KAREN",
+    "youtube_channel": "",
+    "pending_memory": {
+        "type": "game",
+        "category": null,
+        "value": "Forza Horizon 7",
+        "confidence": 0.85,
+        "createdAt": 1794816264898
+    }
+}

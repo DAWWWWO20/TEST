@@ -1,0 +1,26 @@
+[
+    {
+        "id": "USER_001",
+        "name": "KRISTINE MKHITARYAN",
+        "email": "davidbaghdasaryan444@gmail.com",
+        "passwordSalt": "ee4ea0a562d2448aad98352038d5130f",
+        "passwordHash": "81dc983550921bdfc633c2cbdb92aa789ef5ccafdb59f02116b056e8b58bff33fed24817ef131d218d98178ef84718eaad0fdbf8555e89b7e74b15ca4618f99d",
+        "createdAt": "2026-11-17T13:35:47.662Z"
+    },
+    {
+        "id": "USER_002",
+        "name": "KRISTINE MKHITARYAN",
+        "email": "annahovhannisyan7373@gmail.com",
+        "passwordSalt": "5d1760879c06c2c02ff119c1cb010663",
+        "passwordHash": "1aa7bf6c49a5fc9406afed18dd487fe219c9f6cf264235bdca770b23e5626b894f022521c94e68a356a7889e70996682c5fe1c49e3102c88b71240de693bddc3",
+        "createdAt": "2026-11-17T14:10:49.361Z"
+    },
+    {
+        "id": "USER_003",
+        "name": "Davit Baghdasaryan",
+        "email": "davidbaghdasaryan44@gmail.com",
+        "passwordSalt": "9e686758283df0d62eac5282db1ab4fe",
+        "passwordHash": "8c77ce288fd82b15c693af98c990c9876e73b0cca2179d3b4c7dadd8a9756600054afb4d81ea0fa0cb3f2a72f2ec441723472e5110eec6b4fe5ae7eb36f36541",
+        "createdAt": "2026-11-18T14:57:47.932Z"
+    }
+]
